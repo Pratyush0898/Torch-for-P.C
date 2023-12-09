@@ -37,7 +37,7 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your purposes.
+This project is licensed under the [Apache License 2.0](LICENSE). Feel free to use and modify the code for your purposes.
 
 ## Acknowledgments
 
